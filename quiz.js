@@ -23,22 +23,3 @@ document.addEventListener('DOMContentLoaded', function() {
 
     document.getElementById('submit-answer').addEventListener('click', checkAnswer);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
